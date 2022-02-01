@@ -1,5 +1,7 @@
 ### Hi there, I'm Nidhi 👋
 - I'm a 23 yr old girl from India :heart: 
+- I work at Texas Instruments 💰
+- I'm a RPA developer 💻
 - I love math, programming, data science 🔥
 - I love travelling and music 🎵
 
