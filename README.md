@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Nidhi 👋
+- I'm a 23 yr old girl from India :heart: 
+- I love math, programming, data science 🔥
+- I love travelling and music 🎵
 
+How to find me 👀
+   -  https://www.linkedin.com/in/nidhikumar1401/
+   -  https://www.instagram.com/nidhi.py/
+
+Happy Coding! 
 <!--
 **nidhikumar/NidhiKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
