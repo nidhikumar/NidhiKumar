@@ -3,7 +3,7 @@
 - I'm currently doing my masters in CS from University of Washington
 - Incoming Summer SDE Intern at Amazon
 - I used to work at Texas Instruments 💰
-- I love math, programming, data science 🔥
+- I love math, programming 🔥
 - I love travelling and music 🎵
 
 How to find me 👀
